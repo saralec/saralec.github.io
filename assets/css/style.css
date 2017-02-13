@@ -424,6 +424,10 @@ fieldset[disabled] .btn-primary.active {
     padding: 21px 25px 30px;
 }
 
+.navbar-default.black .navbar-brand, .navbar-default.black .nav li a.navbar-brand, .navbar-default.black .nav li > a{
+  color: #333;
+}
+
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
